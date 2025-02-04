@@ -8,6 +8,8 @@
 
 <br clear="both">
 
+<img align="right" height="220" src="https://i.pinimg.com/originals/3d/16/03/3d1603d3ba9184057f3906cd2d8f6e47.gif"  />
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=pedrobcarvalho0601&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
@@ -26,7 +28,7 @@
 
 <br clear="both">
 
-<img align="right" height="220" src="https://i.pinimg.com/originals/3d/16/03/3d1603d3ba9184057f3906cd2d8f6e47.gif"  />
+
 
 ###
 
