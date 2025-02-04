@@ -1,4 +1,8 @@
-<h2 align="left">Hi 👋! My name is pedro carvalho and I`m student of Electrical and Computer Engineering at the University of Coimbra.<br>Here you’ll find a collection of projects I’ve worked on, some developed during my studies and others driven by my personal passion for learning.</h2>
+<h2 align="left">My name is pedro carvalho and I`m student of Electrical and Computer Engineering at the University of Coimbra.<br>Here you’ll find a collection of projects I’ve worked on, some developed during my studies and others driven by my personal passion for learning.</h3>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ###
 
@@ -47,14 +51,12 @@
 
 ###
 
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=pedrobcarvalho0601&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrobcarvalho0601&icon=2&color=0)](https://visitcount.itsvg.in)
