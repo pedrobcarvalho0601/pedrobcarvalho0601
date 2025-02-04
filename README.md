@@ -22,11 +22,9 @@
 ###
 
 
-
 ###
 
 <br clear="both">
-
 
 
 ###
@@ -37,6 +35,13 @@
 </div>
 
 ###
+
+###
+
+🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=pedrobcarvalho0601&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
@@ -49,15 +54,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="qt logo"  />
 </div>
-
-###
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pedrobcarvalho0601&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
-
-
-
-
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pedrobcarvalho0601&icon=2&color=0)](https://visitcount.itsvg.in)
