@@ -1,14 +1,13 @@
 <h2 align="left">My name is pedro carvalho and I`m student of Electrical and Computer Engineering at the University of Coimbra.<br>Here you’ll find a collection of projects I’ve worked on, some developed during my studies and others driven by my personal passion for learning.</h3>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<img align="center" height="220" src="https://i.pinimg.com/originals/3d/16/03/3d1603d3ba9184057f3906cd2d8f6e47.gif"  />
 
 
 ###
 
 <br clear="both">
 
-<img align="right" height="220" src="https://i.pinimg.com/originals/3d/16/03/3d1603d3ba9184057f3906cd2d8f6e47.gif"  />
+
 
 
 ## 🏆 GitHub Trophies
