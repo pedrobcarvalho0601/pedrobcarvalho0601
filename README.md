@@ -3,7 +3,7 @@
 Hi, I’m Pedro Carvalho. I’m a 2nd-year Electrical and Computer Engineering student at the University of Coimbra.
 Here you’ll find a collection of projects I’ve worked on—some developed during my studies and others driven by my personal passion for learning.
 
-#### Some Technical Stuff I’m Learning (*) and Working With
+#### Some Technical Stuff I Work With
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="30" alt="arduino logo"  />
