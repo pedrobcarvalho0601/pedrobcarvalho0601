@@ -1,7 +1,12 @@
+<p align="right">
+  🌐 <a href="https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/SEU_UTILIZADOR" target="_blank"><strong>Traduzir com Google Translate</strong></a>
+</p>
+
+
 <h1 align="center">Hey, I'm Pedro 👋</h1>
 
 <p align="center">
-  · Electrical & Computer Engineering student · 
+  · Electrical & Computer Engineering student ·
 </p>
 
 <p align="center">
@@ -17,9 +22,9 @@
 
 ## 🌟 About Me
 
-Hi! I’m Pedro Carvalho, currently in my 2nd year of **Electrical and Computer Engineering** at the University of Coimbra. I’m passionate about **robotics, embedded systems**, and how software and hardware come together to create real-world impact.
+Hi! I’m Pedro Carvalho, currently in my 2nd year of **Electrical and Computer Engineering** at the University of Coimbra. I’m passionate about **robotics** and **electronics**.
 
-I love solving complex problems and learning new tools along the way. Most of my projects begin with a simple curiosity—and sometimes a few wires scattered on the floor.
+I enjoy solving challenging problems and picking up new tools along the way. Many of my projects are born out of curiosity—some are personal experiments, others were developed during my university journey.
 
 ---
 
@@ -37,17 +42,12 @@ I love solving complex problems and learning new tools along the way. Most of my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="Qt" />
 </div>
 
-Currently exploring:
-- 🐍 Web/App development
-- 🤖 ROS (Robot Operating System)
-- 💻 Computer vision & AI in embedded systems
-
 ---
 
 ## 🧠 Featured Project
 
 ### [🕷 ARACNID: Quadruped Robot with Bluetooth Control](https://github.com/pedrobcarvalho0601/ARACNID_PROJECT)
-A bio-inspired walking robot that you can control remotely via Bluetooth. This project combines mechanical design, embedded programming (Arduino & C++), and a good bit of trial and error.  
+A bio-inspired quadruped robot controllable via Bluetooth. This project combines mechanical design, embedded programming (Arduino & C++), and lots of trial and error.  
 > ⚙️ Technologies: Arduino, C++, Bluetooth module, Servo motors
 
 ---
@@ -56,9 +56,9 @@ A bio-inspired walking robot that you can control remotely via Bluetooth. This p
 
 | Project | Description |
 |--------|-------------|
-| [🎮 TicTacToe Game](https://github.com/pedrobcarvalho0601/TicTacToe) | Classic TicTacToe implemented in C++ with MiniMax algorithm for unbeatable AI |
-| [📷 Spotify Playlist Generator](#) _(Work in Progress)_ | Generates custom playlists based on image mood analysis |
-| [🛳️ 3D Naval Battle](#) _(Work in Progress)_ | Built entirely with MATLAB `.m` files and Simulink 3D models for dynamic gameplay |
+| [🎮 TicTacToe Game](https://github.com/pedrobcarvalho0601/TicTacToe) | Classic TicTacToe implemented in C++ using the MiniMax algorithm for unbeatable AI |
+| [📷 Spotify Playlist Generator](#) _(Work in Progress)_ | Generates custom Spotify playlists based on mood detected in a photo |
+| [🛳️ 3D Naval Battle](#) _(Work in Progress)_ | Fully developed using MATLAB `.m` files and Simulink 3D blocks for an interactive game |
 
 ---
 
@@ -75,7 +75,7 @@ A bio-inspired walking robot that you can control remotely via Bluetooth. This p
 
 ## 📬 Let’s Talk!
 
-If you have a cool project, an internship opportunity, or just want to geek out about robotics, AI, or embedded systems—hit me up!
+If you’re working on something cool, looking for a collaborator, or just want to talk robotics, AI, or embedded systems—feel free to reach out!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-carvalho-760678280/" target="_blank">
