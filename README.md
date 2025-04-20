@@ -1,7 +1,3 @@
-<p align="right">
-  🌐 <a href="https://translate.google.com/translate?sl=en&tl=pt&u=https://github.com/SEU_UTILIZADOR" target="_blank"><strong>Traduzir com Google Translate</strong></a>
-</p>
-
 
 <h1 align="center">Hey, I'm Pedro 👋</h1>
 
@@ -65,8 +61,6 @@ A bio-inspired quadruped robot controllable via Bluetooth. This project combines
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pedrobcarvalho0601&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api?username=pedrobcarvalho0601&show_icons=true&theme=tokyonight&count_private=true&custom_title=My%20GitHub%20Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobcarvalho0601&layout=compact&theme=tokyonight" height="150"/>
 </div>
