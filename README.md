@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Pedro 👋</h1>
 
 <p align="center">
-  Electrical & Computer Engineering student · Tech tinkerer · Problem solver
+  · Electrical & Computer Engineering student · 
 </p>
 
 <p align="center">
