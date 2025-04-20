@@ -37,8 +37,8 @@ I love solving complex problems and learning new tools along the way. Most of my
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="30" alt="Qt" />
 </div>
 
-I’m currently learning more about:
-- 🐍 Python for scripting and automation
+Currently exploring:
+- 🐍 Web/App development
 - 🤖 ROS (Robot Operating System)
 - 💻 Computer vision & AI in embedded systems
 
@@ -48,7 +48,17 @@ I’m currently learning more about:
 
 ### [🕷 ARACNID: Quadruped Robot with Bluetooth Control](https://github.com/pedrobcarvalho0601/ARACNID_PROJECT)
 A bio-inspired walking robot that you can control remotely via Bluetooth. This project combines mechanical design, embedded programming (Arduino & C++), and a good bit of trial and error.  
-> ⚙️ Made with: Arduino, C++, Bluetooth module, Servo motors
+> ⚙️ Technologies: Arduino, C++, Bluetooth module, Servo motors
+
+---
+
+## 📌 Other Projects
+
+| Project | Description |
+|--------|-------------|
+| [🎮 TicTacToe Game](https://github.com/pedrobcarvalho0601/TicTacToe) | Classic TicTacToe implemented in C++ with MiniMax algorithm for unbeatable AI |
+| [📷 Spotify Playlist Generator](#) _(Work in Progress)_ | Generates custom playlists based on image mood analysis |
+| [🛳️ 3D Naval Battle](#) _(Work in Progress)_ | Built entirely with MATLAB `.m` files and Simulink 3D models for dynamic gameplay |
 
 ---
 
@@ -63,27 +73,9 @@ A bio-inspired walking robot that you can control remotely via Bluetooth. This p
 
 ---
 
-## 📌 Other Projects
-
-| Project | Description |
-|--------|-------------|
-| [TicTacToe Game]([https://github.com/pedrobcarvalho0601/obstacle-avoidance-bot](https://github.com/pedrobcarvalho0601/TicTacToe)) | TicTacToe Game using C++ with MiniMax algorithm |
-| [Spotify playlist generator][progress]| Playlist generator by photos |
-| [3D Naval Battle][progress] | 3D Naval Battle using only .m files from MatLab and 3D Simulink |
-
----
-
-## 🧩 Fun Facts
-
-- 🕹 I once spent an entire weekend debugging a single missing semicolon—and it was totally worth it.
-- 🧠 I'm the type of person who reads datasheets for fun.
-- 🎯 Personal goal: build a full robotic arm from scratch (hardware + control software).
-
----
-
 ## 📬 Let’s Talk!
 
-If you have a cool project, an internship opportunity, or just want to nerd out about robotics or C++, feel free to reach out.
+If you have a cool project, an internship opportunity, or just want to geek out about robotics, AI, or embedded systems—hit me up!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-carvalho-760678280/" target="_blank">
