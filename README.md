@@ -67,7 +67,7 @@ A bio-inspired walking robot that you can control remotely via Bluetooth. This p
 
 | Project | Description |
 |--------|-------------|
-| [Obstacle Avoidance Robot](https://github.com/pedrobcarvalho0601/obstacle-avoidance-bot) | Autonomous robot using ultrasonic sensors for real-time pathfinding |
+| [TicTacToe Game]([https://github.com/pedrobcarvalho0601/obstacle-avoidance-bot](https://github.com/pedrobcarvalho0601/TicTacToe)) | TicTacToe Game using C++ with MiniMax algorithm |
 | [Spotify playlist generator][progress]| Playlist generator by photos |
 | [3D Naval Battle][progress] | 3D Naval Battle using only .m files from MatLab and 3D Simulink |
 
