@@ -62,7 +62,7 @@ A bio-inspired quadruped robot controllable via Bluetooth. This project combines
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=pedrobcarvalho0601&show_icons=true&theme=tokyonight&count_private=true&custom_title=My%20GitHub%20Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobcarvalho0601&layout=compact&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobcarvalho0601&layout=compact&theme=tokyonight&langs_count=10" height="150"/> 
 </div>
 
 ---
