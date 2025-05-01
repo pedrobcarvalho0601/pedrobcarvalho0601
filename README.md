@@ -61,15 +61,15 @@ A bio-inspired quadruped robot controllable via Bluetooth. This project combines
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pedrobcarvalho0601&show_icons=true&theme=tokyonight&count_private=true&custom_title=My%20GitHub%20Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobcarvalho0601&layout=compact&theme=tokyonight&langs_count=30" height="150"/> 
+  <img src="https://github-readme-stats.vercel.app/api?username=pedrobcarvalho0601&show_icons=true&theme=tokyonight&count_private=true&custom_title=My%20GitHub%20Stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrobcarvalho0601&layout=compact&theme=tokyonight&langs_count=30" height="200" width=30%" /> 
 </div>
 
 ---
 
 ## 📬 Let’s Talk!
 
-If you’re working on something cool, looking for a collaborator, or just want to talk robotics, AI, or embedded systems—feel free to reach out!
+If you’re working on something cool, looking for a collaborator, or just want to talk robotics, AI, free to reach out!
 
 <div align="center">
   <a href="https://www.linkedin.com/in/pedro-carvalho-760678280/" target="_blank">
