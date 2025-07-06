@@ -18,21 +18,6 @@ Hi! I’m Pedro Carvalho, a 2nd-year **Electrical and Computer Engineering** stu
 
 I thrive in hands-on environments, enjoy solving real-world problems, and love exploring the intersection of hardware and software. My goal is to contribute to cutting-edge robotics or embedded systems projects in the future.
 
----
-
-## 🔧 Technologies I Work With
-
-### 🛠 Embedded Systems  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="24" alt="Arduino" />
-
-### 💻 Programming Languages  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="24" alt="C++" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="24" alt="C" />
-
-### ⚙️ Tools & Environments  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="24" alt="MATLAB" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" height="24" alt="Qt" />
-
 
 ---
 
