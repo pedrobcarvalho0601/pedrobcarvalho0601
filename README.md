@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Pedro 👋</h1>
+<h1 align="center">Hey, I'm Pedro </h1>
 <p align="center"><strong>Electrical & Computer Engineering Student | Robotics Enthusiast</strong></p>
 
 <p align="center">
